@@ -1,0 +1,13 @@
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/bin/Debug/netcoreapp3.1/OutPut_Method_Test.deps.json
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/bin/Debug/netcoreapp3.1/OutPut_Method_Test.runtimeconfig.json
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/bin/Debug/netcoreapp3.1/OutPut_Method_Test.runtimeconfig.dev.json
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/bin/Debug/netcoreapp3.1/OutPut_Method_Test.dll
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/bin/Debug/netcoreapp3.1/OutPut_Method_Test.pdb
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.csproj.AssemblyReference.cache
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.AssemblyInfoInputs.cache
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.AssemblyInfo.cs
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.csproj.CoreCompileInputs.cache
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.dll
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.pdb
+/Users/peirongzhang/Projects/OutPut_Method_Test/OutPut_Method_Test/obj/Debug/netcoreapp3.1/OutPut_Method_Test.genruntimeconfig.cache
