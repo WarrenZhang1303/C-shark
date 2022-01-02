@@ -1,0 +1,13 @@
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.deps.json
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.runtimeconfig.json
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.runtimeconfig.dev.json
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.dll
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/bin/Debug/netcoreapp3.1/ArrayTest.pdb
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.csproj.AssemblyReference.cache
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.AssemblyInfoInputs.cache
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.AssemblyInfo.cs
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.csproj.CoreCompileInputs.cache
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.dll
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.pdb
+/Users/peirongzhang/Projects/ArrayTest/ArrayTest/obj/Debug/netcoreapp3.1/ArrayTest.genruntimeconfig.cache
